@@ -1,7 +1,7 @@
 Based on "Ultrasonic Radar" from NimishaChitriv
 https://github.com/NimishaChitriv/Ultrasonic_radar
 
-To run the program on an Arduino Microcontroler (i used Arduino Uno)
+To run the program on an Arduino Microcontroller (i used Arduino Uno)
 you need to download ArduinoIDE and Processing IDE for the graphics.
 
 The .ino File is for ArduinoIDE and the .pde File is for Processing.
