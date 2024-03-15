@@ -14,7 +14,7 @@ int index2=0;
 PFont orcFont;
 void setup() {
 
-  size (1200, 700); // ***CHANGE THIS TO YOUR SCREEN RESOLUTION***
+  size (1920, 1200); // ***CHANGE THIS TO YOUR SCREEN RESOLUTION***
   smooth();
   myPort = new Serial(this, "COM5", 9600); // starts the serial communication
   myPort.bufferUntil('\n'); // reads the data from the serial port up to the character '.'. So actually it reads this: angle,distance\n
@@ -110,7 +110,7 @@ void drawText() { // draws the texts on the screen
   textSize(40);
   text("N_Tech ", width-width*0.875, height-height*0.0277);
   text("Angle: " + iAngle +" ", width-width*0.48, height-height*0.0277);
-  text("Distance: ", width-width*0.26, height-height*0.0277);
+  text("Distance: ", width-width*0.28, height-height*0.0277);
   if (iDistance<40) {
     text("        " + iDistance +" cm", width-width*0.225, height-height*0.0277);
   }
