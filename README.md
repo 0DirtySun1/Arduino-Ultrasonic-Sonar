@@ -16,3 +16,11 @@ to your Liking.
 
 Last but not least you start the Processing and your ready to scan
 for Fiends ;)
+
+For detailed instruction how to setup your Microcontroler, Ultrasonic
+Scanner and Servo-Engine look at: 
+https://projecthub.arduino.cc/nimishac/ultrasonic-radar-with-arduino-19baa3
+or https://docs.arduino.cc/learn/electronics/servo-motors/ and 
+https://projecthub.arduino.cc/Isaac100/getting-started-with-the-hc-sr04-ultrasonic-sensor-7cabe1
+for more infos about BlockNot look into: 
+https://github.com/EasyG0ing1/BlockNot?tab=readme-ov-file#how-to-use-blocknot
