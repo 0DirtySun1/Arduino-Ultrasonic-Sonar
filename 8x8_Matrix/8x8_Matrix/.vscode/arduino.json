@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "8x8_Matrix.ino",
+    "port": "COM5",
+    "programmer": "avrisp"
+}
